@@ -1,0 +1,9 @@
+C:\1150Projects\Gold.NET\ChallengeW3D3\PairConsoleGame\Game\bin\Debug\Game.exe.config
+C:\1150Projects\Gold.NET\ChallengeW3D3\PairConsoleGame\Game\bin\Debug\Game.exe
+C:\1150Projects\Gold.NET\ChallengeW3D3\PairConsoleGame\Game\bin\Debug\Game.pdb
+C:\1150Projects\Gold.NET\ChallengeW3D3\PairConsoleGame\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\1150Projects\Gold.NET\ChallengeW3D3\PairConsoleGame\Game\obj\Debug\Game.exe
+C:\1150Projects\Gold.NET\ChallengeW3D3\PairConsoleGame\Game\obj\Debug\Game.pdb
+C:\1150Projects\Gold.NET\ChallengeW3D3-PairGame\PairConsoleGame\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\1150Projects\Gold.NET\ChallengeW3D3-PairGame\PairConsoleGame\Game\obj\Debug\Game.exe
+C:\1150Projects\Gold.NET\ChallengeW3D3-PairGame\PairConsoleGame\Game\obj\Debug\Game.pdb
