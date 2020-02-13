@@ -55,8 +55,6 @@ namespace Game
                         Console.Clear();
                         continue;
                     }
-                    //selection = Int32.Parse(answer);
-                    //selection = int.TryParse(answer, out selection);
                     foreach (City cityInfo in cities)
                     {
                         if (selection == cityInfo.CityID)
