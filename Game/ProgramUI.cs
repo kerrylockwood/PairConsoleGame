@@ -47,7 +47,7 @@ namespace Game
                         $"=======================================\n" +
                         $"{cityPromptStr}");
                     answer = Console.ReadLine();
-                    if (String.IsNullOrEmpty(answer))
+                    if (String.IsNullOrEmpty(answer) || !int.TryParse(answer, out selection))
                     {
                         Console.WriteLine($"Please select an option.\n" +
                             $" Press any key to continue");
@@ -55,7 +55,8 @@ namespace Game
                         Console.Clear();
                         continue;
                     }
-                    selection = Int32.Parse(answer);
+                    //selection = Int32.Parse(answer);
+                    //selection = int.TryParse(answer, out selection);
                     foreach (City cityInfo in cities)
                     {
                         if (selection == cityInfo.CityID)
